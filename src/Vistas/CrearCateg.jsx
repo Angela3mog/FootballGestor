@@ -7,7 +7,7 @@ const categ = () =>
 <div class="hero is-primary is-fullheight">
 <section class="section">
     
-   <div class="container is-2">
+   <div class="container">
    <div class="columns is-left">
   <div class="column is-6"> 
     <p class="title is-2">Crear categoría</p>
