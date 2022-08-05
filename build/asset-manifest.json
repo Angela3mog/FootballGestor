@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.f1a45278.js",
+    "static/js/787.430dae08.chunk.js": "/static/js/787.430dae08.chunk.js",
+    "static/media/benzema.jpg": "/static/media/benzema.38741dab86bab223c135.jpg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.f1a45278.js.map": "/static/js/main.f1a45278.js.map",
+    "787.430dae08.chunk.js.map": "/static/js/787.430dae08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1a45278.js"
+  ]
+}
